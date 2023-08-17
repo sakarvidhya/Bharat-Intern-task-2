@@ -4,8 +4,6 @@ Web Development
 
 🎉 I'm absolutely thrilled to share that I've just accomplished an exciting feat: designing and developing a user-friendly Temperature Conversion Website! 🚀
 
-🔗 Website Link: [Insert Your Website URL]
-
 🌡️ Exploring the Website:
 ➡️ My latest project is a simple yet effective website that offers temperature conversion services. With just a few clicks, users can effortlessly convert temperatures between Celsius and Fahrenheit, and vice versa.
 
